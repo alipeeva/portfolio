@@ -58,3 +58,9 @@
 <p style="text-align: center;">
 <img src="bisness_process_sheme.png" width="700">
 </p>
+
+#### Варианты использования и пользовательские истории
+
+<p style="text-align: center;">
+<img src="user_story.jpg" width="700">
+</p>
